@@ -1,4 +1,5 @@
 version control with git 1
 --update file to test github
 -=update file to local from github
+-test conflict
 -local text conflict
